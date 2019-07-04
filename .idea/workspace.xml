@@ -745,6 +745,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="47" />
+          <entry key="PLAIN_TEXT" value="18" />
           <entry key="TypeScript" value="688" />
           <entry key="TypeScript JSX" value="345" />
         </counts>
@@ -801,7 +802,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GameContext.tsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -809,6 +810,15 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -839,6 +849,7 @@
         <option value="$PROJECT_DIR$/src/Components/Cell.tsx" />
         <option value="$PROJECT_DIR$/src/Domain/Cell.ts" />
         <option value="$PROJECT_DIR$/src/GameContext.tsx" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -874,23 +885,6 @@
             <path>
               <item name="latest" type="b2602c69:ProjectViewProjectNode" />
               <item name="latest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="latest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="latest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="latest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="latest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="latest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="latest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Domain" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -936,7 +930,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20398000" />
+    <option name="totallyTimeSpent" value="20448000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
